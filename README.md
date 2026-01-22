@@ -1,6 +1,6 @@
 ## Hi ,I'm Bharat
 
-####Student developer exploring web development, data structures, and open source 🚀
+Student developer exploring web development, data structures, and open source 🚀
 Learning by building interactive, real-world projects
 
 <!--
