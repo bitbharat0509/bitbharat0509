@@ -3,6 +3,35 @@
 Student developer exploring web development, data structures, and open source 🚀
 Learning by building interactive, real-world projects
 
+
+---
+
+## 🛠️ Skills & Tools
+
+**Programming & Web:**  
+- C++  
+- HTML, CSS, JavaScript  
+- Git & GitHub  
+
+**Foundations:**  
+- Data Structures & Algorithms  
+
+---
+
+## 🎯 Areas of Interest
+- Open-source development  
+- Frontend technologies  
+- Problem solving and core CS concepts  
+
+---
+
+## 📬 Get in Touch
+- GitHub:https://github.com/bitbharat0509
+- LinkedIn: https://www.linkedin.com/in/bharat-yadav-599780364/
+
+---
+
+⭐ *Continuously learning, building, and growing as a developer.*
 <!--
 **bitbharat0509/bitbharat0509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
