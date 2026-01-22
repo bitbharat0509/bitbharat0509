@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi ,I'm Bharat
+
+####Student developer exploring web development, data structures, and open source 🚀
+Learning by building interactive, real-world projects
 
 <!--
 **bitbharat0509/bitbharat0509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
